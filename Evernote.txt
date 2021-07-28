@@ -1,0 +1,32 @@
+1:
+45 svr gas
+1.58 svr produce limes safeway
+13.99 svr beverages safeway
+
+2:
+20 sw coffee
+3 svr condiments bulk barn
+515.71 rpad condo fees
+140 rpad property tax
+
+3:
+2.51 svr dessert and chocolates starbursts safeway
+7.67 svr meat ground beef safeway
+
+4:
+11.99 svr frozen pizzas safeway
+
+5:
+38.08 svr meat sobeys
+15.17 svr dairy and eggs sobeys
+3 svr frozen sobeys
+571.36 rpad mortgage
+171.53 rpad car insurance
+21.28 svr cell phone carlos
+4.47 svr milkshake burger king
+
+6:
+32.57 svr meat miller meats
+25.99 svr hair haircut carlos
+3.92 svr medicine/pharmacy pregnancy test dollarama
+7 svr home washing/cleaning dollarama

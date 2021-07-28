@@ -1,0 +1,16 @@
+Account Abbreviation,Account Name,"Account appearance in entry (must always be this way, if I ever use two or more names, stick them together)"
+bt,RBC Total,bt Name
+sw,Wallet Sara,sw
+cw,Wallet Carlos,cw
+cvb,Bancolombia Visa Carlos,cvb
+cmb,Bancolombia Mastercard Carlos,cmb
+smh,Hudson's Bay Mastercard Sara,smh
+svr,RBC Visa Sara,svr
+cva,AV Villas Visa Carlos,cva
+rpad,RBC Pre-Authorized Debit,pad
+schq,Simplii Cheque,schq
+rchq,RBC Cheque,rchq
+btc,Bitcoin,btc
+hbt,HSBC Bank Transfer,hbt
+hpad,HSBC Pre-Authorized Debit,hpad
+cvr,RBC Visa Carlos,cvr
